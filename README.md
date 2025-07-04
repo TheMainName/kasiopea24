@@ -1,2 +1,2 @@
-My solutions for the [kasiopea programming competition](https://kasiopea.matfyz.cz).
-Looking at other's algorithm implementations helped me so maybe it helps someone else!
+My solutions for the competition
+Looking at multiple ways of solving stuff helped me so maybe it helps someone else
